@@ -1,3 +1,3 @@
-# MaryamVatani.github.io
+# SOP
 
-[رزومه](https://maryam-vatani.github.io/MaryamVatani.github.io/)
+[انگیزه نامه](https://maryam-vatani.github.io/SOP/)
